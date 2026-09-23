@@ -1,0 +1,22 @@
+[
+  {
+    "upit": "Python Backend",
+    "relevantni_id": [14,22,37,58]
+  },
+  {
+    "upit": "Frontend React",
+    "relevantni_id": [49]
+  },
+  {
+    "upit": "DevOps Docker",
+    "relevantni_id": [30]
+  },
+  {
+    "upit": "Java Spring",
+    "relevantni_id": [31,46,78]
+  },
+  {
+    "upit": "QA Inzenjer",
+    "relevantni_id": [2,21,24,40,75]
+  }
+]
