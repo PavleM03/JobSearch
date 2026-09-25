@@ -99,7 +99,7 @@ with tab_evaluacija:
     st.header("📊 Evaluacija pretraživača (Ground Truth)")
     st.write(
         "Evaluacija se vrši nad kontrolisanim skupom od **prvih 100 oglasa** "
-        "korišćenjem unapred definisanih 5 test upita i ručno označenih relevantnih dokumenata."
+        "korišćenjem unapred definisanih 10 test upita i ručno označenih relevantnih dokumenata."
     )
 
     if st.button("🚀 Pokreni evaluaciju modela", use_container_width=True):
